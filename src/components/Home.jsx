@@ -1,5 +1,5 @@
 import React from 'react'
-import About from '../pages/Company/About'
+import About from '../pages/company/About'
 import Services from './Services'
 import Different from './Different'
 

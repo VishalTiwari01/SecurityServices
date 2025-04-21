@@ -2,7 +2,7 @@ import React from 'react'
 import cctv from "../../assets/electronic/cctv.png";
 import fire from "../../assets/electronic/fire.png"
 import gps from "../../assets/electronic/gps.png"
-import walkie from "../../assets/electronic/walkie-talkie.PNG";
+import walkie from "../../assets/electronic/walkie-talkie.png";
 
 const Electronic = () => {
   return (

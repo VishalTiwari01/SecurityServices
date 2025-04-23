@@ -65,10 +65,10 @@ const Services = () => {
       description:
         "The selection process consists of check and verification of education, ...",
       image: recruitment,
-      link: "/services/recruitment-training", // Define link for detailed page
+      link: "/services/recruitment", // Define link for detailed page
     },
   ];
-
+    
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 bg-amber-900">
       <div>

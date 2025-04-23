@@ -41,6 +41,7 @@ import Manpower from "./components/Manpower";
 import Services from "./components/Services";
 import PhotoGallery from "./components/Photo";
 import Electronic from "./pages/services/Electronic";
+import RecruitmentTrainingService from "./pages/services/RecruitmentTrainingService";
 
 const App = () => {
   return (
@@ -166,6 +167,10 @@ const App = () => {
         <Route
           path="/services/consulting/technical-sales"
           element={<TechnicalSales />}
+        />
+        <Route
+          path="/services/recruitment"
+          element={<RecruitmentTrainingService/>}
         />
       </Routes>
       <Manpower />
